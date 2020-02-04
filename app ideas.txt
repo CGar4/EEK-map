@@ -1,0 +1,3 @@
+ideas traffice map for pc
+	displays where all network fraffic is going and what service its using
+	use elastic search for log collection and kibana for ui
